@@ -2,7 +2,7 @@
 
 Desenvolvedor web de Aquidauana (MS), focado em **React, Next.js e TypeScript**. Gosto de construir produtos completos, do banco de dados ao deploy.
 
-- 🛒 Projeto principal: **[Inventta 3D](https://github.com/ViniciusN1/Inventa-3d-)**, loja virtual com pagamento via Mercado Pago (cartão e Pix), estoque, pedidos e painel admin
+- 🛒 Projeto principal: **[Inventta 3D](https://inventta-3dd.vercel.app)** ([código](https://github.com/ViniciusN1/Inventa-3d-)), loja virtual com pagamento via Mercado Pago (cartão e Pix), estoque, pedidos e painel admin
 - 🌱 Estudando agora: Next.js avançado, integrações de pagamento e IA aplicada
 - 💼 Aberto a freelas e vagas remotas
 - 📫 [LinkedIn](https://www.linkedin.com/in/vinicius-nunes-dev)
@@ -24,7 +24,7 @@ Desenvolvedor web de Aquidauana (MS), focado em **React, Next.js e TypeScript**.
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [Inventta 3D](https://github.com/ViniciusN1/Inventa-3d-) | Loja virtual de impressão 3D com checkout Mercado Pago e painel admin | Next.js, TypeScript, MongoDB |
+| [Inventta 3D](https://github.com/ViniciusN1/Inventa-3d-) · [loja no ar](https://inventta-3dd.vercel.app) | Loja virtual de impressão 3D com checkout Mercado Pago e painel admin | Next.js, TypeScript, MongoDB |
 | [EvoluaMaisPlus](https://github.com/ViniciusN1/EvoluaMaisPlus) | App de acompanhamento de emagrecimento e saúde | TypeScript |
 | [Listagem Pet](https://github.com/ViniciusN1/Listagem_Pet) · [demo](https://listagem-pet.vercel.app) | Fila de atendimento para clientes de pet shop | JavaScript |
 | [Portfólio](https://github.com/ViniciusN1/Portifolio) · [demo](https://portifolio-phi-drab.vercel.app) | Meu portfólio pessoal | Vue.js |
